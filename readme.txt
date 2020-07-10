@@ -6,3 +6,4 @@ Git remote.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Creating a new branch is no-ff.
+Creating a new branch is no no-ff.
